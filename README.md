@@ -1,6 +1,5 @@
 # Orb Mover
 
----
 ### Reposition the minimap orbs within the orb parent widget using coordinates
 
 ![Orb Mover demo](https://github.com/user-attachments/assets/c5907d71-1e43-42be-b520-34206ecd8032)
@@ -26,7 +25,6 @@
 
 ## Features
 
----
 
 - Reposition each minimap orb independently.
 - Per-element enable toggle.
@@ -36,7 +34,6 @@
 
 ## How to use
 
----
 
 1. Expand the section for the orb you want to move.
 2. Tick Custom position to take control of that element.
@@ -44,7 +41,6 @@
 
 ## Note
 
----
 
 - Positions are relative to the orb parent widget and therefore bounded by it.
 - Switching between game client layouts may require re-adjustments.
