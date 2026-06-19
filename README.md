@@ -3,7 +3,7 @@
 ---
 ### Reposition the minimap orbs within the orb parent widget using coordinates
 
-![Orb Mover demo](https://i.imgur.com/oIPm5h7.gif)
+![Orb Mover demo](https://github.com/user-attachments/assets/c5907d71-1e43-42be-b520-34206ecd8032)
 
 | **Settings**    | **Description**                                           |
 |-----------------|-----------------------------------------------------------|
